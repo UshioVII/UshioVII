@@ -28,7 +28,7 @@ Board Flow es una plataforma de organización y gestión de tareas y proyectos e
 
 ### [Pokedex](https://github.com/UshioVII/Pokedex)
 
-nspirada en la famosa Pokédex de Pokémon, esta aplicación está construida con React y JavaScript para brindarte una experiencia emocionante y llena de diversión.
+Inspirada en la famosa Pokédex de Pokémon, esta aplicación está construida con React y JavaScript para brindarte una experiencia emocionante y llena de diversión.
 
 ## Contacto
 
