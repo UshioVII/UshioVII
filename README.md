@@ -33,7 +33,6 @@ Inspirada en la famosa Pokédex de Pokémon, esta aplicación está construida c
 ## Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/diego-montes-205740226/)
-- [Instagram](https://www.instagram.com/ushiovii/)
 
 ¡Si estás interesado en colaborar en proyectos interesantes o tienes alguna pregunta, no dudes en contactarme! Estaré encantado de charlar contigo.
 
