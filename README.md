@@ -1,8 +1,12 @@
-# ¡Hola, soy Diego Montes (Apodo: Ushio)! 👋
+# ¡Hola, soy Diego Raul Montes (Apodo: Ushio)! 👋
 
 ## Sobre mí
 
-¡Saludos! Soy un Full Stack Web Developer enfocado en JavaScript, con experiencia en metodologías ágiles como Scrum. Me apasiona el desarrollo web y cuento con habilidades destacadas en trabajo en equipo, resolución de problemas, adaptabilidad, inteligencia emocional, liderazgo, empatía, gestión del tiempo y creatividad. Estoy firmemente comprometido con mi crecimiento profesional y destaco por mi comunicación efectiva, enfoque en resultados y mi fuerte interés en la programación y la mejora continua.
+Soy un desarrollador web enfocado en JavaScript, con experiencia en metodologías ágiles como Scrum. Tengo habilidades destacadas en trabajo en equipo, resolución de problemas, adaptabilidad, liderazgo, empatía, gestión del tiempo y creatividad. He trabajado en el desarrollo de plataformas de e-commerce utilizando JS, React, HTML, CSS, Node y Express.
+
+Estoy firmemente comprometido con mi crecimiento profesional y destaco por mi comunicación efectiva, enfoque en resultados y mi fuerte interés en la programación y la mejora continua.
+
+Recientemente ingresé a la UTN San Nicolás, donde estoy ampliando mis conocimientos en programación y aprendiendo Python, Algoritmos y Arquitectura, Sistemas Operativos y Organización Empresarial.
 
 ## Tecnologías
 
